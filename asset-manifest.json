@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/OATutor-Content-Staging/static/css/main.32dd33cc.css",
-    "main.js": "/OATutor-Content-Staging/static/js/main.18c80a91.js",
+    "main.css": "/OATutor-Content-Staging/static/css/main.bbe3abce.css",
+    "main.js": "/OATutor-Content-Staging/static/js/main.d44f2aee.js",
     "static/media/Symbola.svg": "/OATutor-Content-Staging/static/media/Symbola.191c327f0aef5505dabc.svg",
     "static/media/Symbola.otf": "/OATutor-Content-Staging/static/media/Symbola.b0c85dd4bda9eef9f78a.otf",
     "static/media/Symbola.eot": "/OATutor-Content-Staging/static/media/Symbola.482c0b923751f14bb9d3.eot",
@@ -9,11 +9,11 @@
     "static/media/Symbola.woff": "/OATutor-Content-Staging/static/media/Symbola.c2f28720e1e7cecfecd4.woff",
     "static/media/Symbola.woff2": "/OATutor-Content-Staging/static/media/Symbola.52e7ce77729712a06423.woff2",
     "index.html": "/OATutor-Content-Staging/index.html",
-    "main.32dd33cc.css.map": "/OATutor-Content-Staging/static/css/main.32dd33cc.css.map",
-    "main.18c80a91.js.map": "/OATutor-Content-Staging/static/js/main.18c80a91.js.map"
+    "main.bbe3abce.css.map": "/OATutor-Content-Staging/static/css/main.bbe3abce.css.map",
+    "main.d44f2aee.js.map": "/OATutor-Content-Staging/static/js/main.d44f2aee.js.map"
   },
   "entrypoints": [
-    "static/css/main.32dd33cc.css",
-    "static/js/main.18c80a91.js"
+    "static/css/main.bbe3abce.css",
+    "static/js/main.d44f2aee.js"
   ]
 }
